@@ -665,6 +665,9 @@ section {
 .home-link-btn.corporate{
   background-color: #333;
 }
+.home-link-btn.event-club{
+  background-color: var(--main);
+}
 
 .home-link-btn.instagram{
   background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
